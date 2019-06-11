@@ -16,8 +16,12 @@ Bachelor of Arts and Bachelor of Laws, Monash University
 2015 - 2020
 
 Diploma of Languages (Chinese), Monash University
+2018-2020
 
-### Notable subjects
+Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
+2019-2019
+
+### Notable Subjects - Bachelor of Laws
 
 Subject Code | Subject Name | Grade | Handbook entry
 -----|-------|--------|-----
@@ -25,14 +29,11 @@ LAWS1114 | Criminal Law  | 72
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
+### Notable subjects - Bachelor of Laws
 
-Intensive Chinese
-Fudan University
-2019-2019
+### Notable Subjects - Diploma of Languages
 
-### Notable subjects
-
-Subject Code | Subject Name | Grade 
+Subject Code | Subject Name | Grade
 -----|-------|--------|-----
 AEX3001 | Chinese Advanced 1  | 72
 AEX3001 | Chinese Advanced 2  | 72
