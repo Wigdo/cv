@@ -1,4 +1,4 @@
-title: Researcher
+title: Ari Wigdorowitz
 url: "https://ankitsultana.com"
 baseurl: "/cv"
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "See my blog at https://github.wigdo.io/papyrus"
 
 sass:
     style: compressed
