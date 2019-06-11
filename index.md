@@ -6,14 +6,16 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a final year law student at Monash University in Melbourne Australia.
+Hi! Welcome to my digital resume. My name is Ari Wigdorowitz and I am a final year law student at Monash University in Melbourne Australia.
 
-You can find my blog [here](https://wigdo.github.io/papyrus)
+If you would like to see some of my academic essays you can find them on my [blog](https://wigdo.github.io/papyrus). I also post opinion pieces on 'what it takes to learn Chinese' and philosophy.
 
 ## Education
 
 Bachelor of Arts and Bachelor of Laws, Monash University
 2015 - 2020
+
+Diploma of Languages (Chinese), Monash University
 
 ### Notable subjects
 
@@ -22,6 +24,20 @@ Subject Code | Subject Name | Grade | Handbook entry
 LAWS1114 | Criminal Law  | 72
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
+
+
+Intensive Chinese
+Fudan University
+2019-2019
+
+### Notable subjects
+
+Subject Code | Subject Name | Grade 
+-----|-------|--------|-----
+AEX3001 | Chinese Advanced 1  | 72
+AEX3001 | Chinese Advanced 2  | 72
+AEX3001 | Chinese Advanced 3  | 72
+
 
 ## Work Experience
 
