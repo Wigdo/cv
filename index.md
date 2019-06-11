@@ -21,6 +21,8 @@ Diploma of Languages (Chinese), Monash University
 Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
 2019-2019
 
+> Fudan University is one of the [top 5](https://www.timeshighereducation.com/student/best-universities/best-universities-china) universities in Mainland China
+
 ### Notable Subjects - Bachelor of Laws
 
 Subject Code | Subject Name | Grade | Handbook entry
