@@ -10,26 +10,32 @@ Hi! I am a final year law student at Monash University in Melbourne Australia.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
+## Education
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Bachelor of Arts and Bachelor of Laws, Monash University
+date:
 
-## Publications
+### Notable subjects
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Subject Code | Subject Name | Grade | Handbook entry
+-----|-------|--------|-----
+LAWS1114 | Criminal Law  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+## Work Experience
+
+[GMP Financial](https://gmpfinancial.com.au/)
+
+Adminstrator / Executive son-in-chief
+
 
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+
 
 Here is a horizontal rule
 
