@@ -6,16 +6,16 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I majored in philosophy and am now three quarters of the way through a law degree at Monash University. I am based in Melbourne Australia. 
+Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I majored in philosophy and am now three quarters of the way through a law degree at Monash University. I am based in Melbourne Australia.
 
 If you would like to see some of my academic essays you can find them on my [blog](https://wigdo.github.io/papyrus). I also post opinion pieces on 'what it takes to learn Chinese' and philosophy.
 
 ## Education
 
-Bachelor of Arts and Bachelor of Laws, Monash University
+Bachelor of Arts and Bachelor of Laws, [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
 2015 - 2020
 
-Diploma of Languages (Chinese), Monash University
+Diploma of Languages (Chinese), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
 2018-2020
 
 Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
@@ -36,8 +36,8 @@ LAWS1114 | Criminal Law  | 72
 Subject Code | Subject Name | Grade
 -----|-------|--------|-----
 AEX3001 | Chinese Advanced 1  | 72
-AEX3001 | Chinese Advanced 2  | 72
-AEX3001 | Chinese Advanced 3  | 72
+AEX3001 | Chinese Advanced 2  | 80
+AEX3001 | Chinese Advanced 3  | 80
 
 
 ## Work Experience
