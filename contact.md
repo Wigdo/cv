@@ -7,5 +7,5 @@ is_contact: true
 *  Phone: [0403334532](tel:0403334532)
 
 ## Social
-1.  [Twitter](#wigda)
+1.  [Twitter](https://twitter.com/Wigda)
 2. [Instagram](https://www.instagram.com/wigdo/)
