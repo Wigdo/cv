@@ -3,8 +3,9 @@ layout: default
 is_contact: true
 ---
 
-1. * Email: [Wigdorowitz@gmail.com](mailto:Wigdorowitz@gmail.com)
+* Email: [Wigdorowitz@gmail.com](mailto:Wigdorowitz@gmail.com)
+*  Phone: [0403334532](tel:0403334532)
 
-2.  Phone: [0403334532](tel:0403334532)
-
-3. [Twitter](#wigda)
+## Social
+1.  [Twitter](#wigda)
+2. [Instagram](https://www.instagram.com/wigdo/)
