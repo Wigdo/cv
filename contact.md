@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [Wigdorowitz@gmail.com](mailto:Wigdorowitz@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [0403334532](tel:0403334532)
 
 ---
 
@@ -22,5 +22,5 @@ is_contact: true
 ## Social
 
 1. [Facebook](#)
-2. [Twitter](#)
+2. [Twitter](#wigda)
 3. [Google+](#)
