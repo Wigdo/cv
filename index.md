@@ -8,18 +8,18 @@ layout: default
 
 Hi! I am a final year law student at Monash University in Melbourne Australia.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+You can find my blog [here](https://wigdo.github.io/papyrus)
 
 ## Education
 
 Bachelor of Arts and Bachelor of Laws, Monash University
-date:
+2015 - 2020
 
 ### Notable subjects
 
 Subject Code | Subject Name | Grade | Handbook entry
 -----|-------|--------|-----
-LAWS1114 | Criminal Law  | Won Outstanding Lead Actor in a miniseries or a movie
+LAWS1114 | Criminal Law  | 72
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
