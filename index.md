@@ -42,12 +42,12 @@ AEX3001 | Chinese Advanced 3  | 80
 
 ## Work Experience
 
-[GMP Financial](https://gmpfinancial.com.au/)
-GMP Financial is a financial planning firm. My duties at GMP Financial include proofreading statements of advice ("SoA"). SoAs are documents required by law to be given to clients when giving financial advice to them and ensure that a financial planner's obligations under the <em> Corporations Act 2001 </em> are adequately met. 
+<p> [GMP Financial](https://gmpfinancial.com.au/) </p>
+GMP Financial is a financial planning firm. My duties at GMP Financial include proofreading statements of advice ("SoA"). SoAs are documents required by law to be given to clients when giving financial advice to them and ensure that a financial planner's obligations under the <em> Corporations Act 2001 </em> are adequately met.
 
 ## Internship Experience
 
-[Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
+<p> [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC") </p> 
 The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> which are primarily residential tenancy disputes. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations.
 
 ## Awards
