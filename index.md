@@ -43,12 +43,12 @@ AEX3001 | Chinese Advanced 3  | 80
 ## Work Experience
 
 [GMP Financial](https://gmpfinancial.com.au/)
-GMP Financial is a financial planning firm. My duties at GMP Financial include 
+GMP Financial is a financial planning firm. My duties at GMP Financial include
 
 ## Internship Experience
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
-The VSBC facilitates the resolution of disputes under the <em> [Retail Leases Act 2003](http://www6.austlii.edu.au/cgi-bin/viewdb/au/legis/vic/consol_act/rla2003135/) </em> which are primarily residential tenancy disputes. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations.
+The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> which are primarily residential tenancy disputes. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations.
 
 ## Awards
 
