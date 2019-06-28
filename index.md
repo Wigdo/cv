@@ -19,7 +19,7 @@ Diploma of Languages (Chinese), [Monash University](https://www.monash.edu/study
 2018-2020
 
 Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
-2019-2019
+2018-2018
 
 > Fudan University is one of the [top 5](https://www.timeshighereducation.com/student/best-universities/best-universities-china) universities in Mainland China
 
@@ -27,9 +27,9 @@ Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wik
 
 Subject Code | Subject Name | Grade | Handbook entry
 -----|-------|--------|-----
-LAWS1114 | Criminal Law  | 72
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+LAW4323 | Evidence | 80
+LAW2112 | Property A | 74
+ATS3882 |Metaphysics | 88
 
 ### Notable Subjects - Diploma of Languages
 
