@@ -18,10 +18,12 @@ Bachelor of Arts and Bachelor of Laws, [Monash University](https://www.monash.ed
 Diploma of Languages (Chinese), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
 2018-2020
 
-Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
+A semester long study exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
 2018-2018
 
 > Fudan University is one of the [top 5](https://www.timeshighereducation.com/student/best-universities/best-universities-china) universities in Mainland China
+
+A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University)
 
 ### Notable Subjects - Bachelor of Arts and Bachelor of Laws
 
@@ -43,7 +45,7 @@ AEX3001 | Chinese Advanced 3  | 80
 ## Work Experience
 
 [GMP Financial](https://gmpfinancial.com.au/)
-<p> GMP Financial is a financial planning firm. My duties at GMP Financial include proofreading statements of advice ("SoA"). SoAs are documents required by law to be given to clients when giving financial advice to them and ensure that a financial planner's obligations under the <em> Corporations Act 2001 </em> are adequately met. </p> 
+<p> GMP Financial is a financial planning firm. My duties at GMP Financial include proofreading statements of advice ("SoA"). SoAs are documents required by law to be given to clients when giving financial advice to them and ensure that a financial planner's obligations under the <em> Corporations Act 2001 </em> are adequately met. </p>
 
 ## Internship Experience
 
