@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Download this CV in .pdf format"
+ - name: "Download this CV"
    link: "resume.pdf"
  - name: "Contact me"
    link: "contact"
