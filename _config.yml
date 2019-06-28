@@ -18,5 +18,5 @@ sass:
 nav:
  - name: "Download this CV in .pdf format"
    link: "resume.pdf"
- - name: "Contact"
+ - name: "Contact me"
    link: "contact"
