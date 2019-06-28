@@ -50,18 +50,9 @@ Administrator / Executive son-in-chief
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/)
 
+Facilitated the mediation of disputes the <em> Retail Leases Act 2003 </em> 
 
 ## Awards
 
 CLIP scholarship
 > This is a scholarship awarded by Monash University to outstanding students of Chinese for the purposes of travelling to China on a short-term study exchange.
-
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
