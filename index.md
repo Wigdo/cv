@@ -23,7 +23,7 @@ A semester long study exchange at [Fudan University](https://en.wikipedia.org/wi
 
 > Fudan University is one of the [top 5](https://www.timeshighereducation.com/student/best-universities/best-universities-china) universities in Mainland China
 
-A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University)
+A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University) 2017
 
 ### Notable Subjects - Bachelor of Arts and Bachelor of Laws
 
