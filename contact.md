@@ -9,3 +9,5 @@ is_contact: true
 ## Social
 1.  [Twitter](https://twitter.com/Wigda)
 2. [Instagram](https://www.instagram.com/wigdo/)
+
+Check out my [blog](https://wigdo.github.io/papyrus)
