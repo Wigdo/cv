@@ -25,8 +25,8 @@ Intensive Chinese on exchange at [Fudan University](https://en.wikipedia.org/wik
 
 ### Notable Subjects - Bachelor of Arts and Bachelor of Laws
 
-Subject Code | Subject Name | Grade | Handbook entry
------|-------|--------|-----
+Subject Code | Subject Name | Grade
+-----|-------|--------
 LAW4323 | Evidence | 80
 LAW2112 | Property A | 74
 ATS3882 |Metaphysics | 88
@@ -44,7 +44,12 @@ AEX3001 | Chinese Advanced 3  | 80
 
 [GMP Financial](https://gmpfinancial.com.au/)
 
-Adminstrator / Executive son-in-chief
+Administrator / Executive son-in-chief
+
+## Internship Experience
+
+[Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/)
+
 
 
 ## Awards
