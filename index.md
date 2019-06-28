@@ -51,18 +51,11 @@ Administrator / Executive son-in-chief
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/)
 
 
-
 ## Awards
 
 CLIP scholarship
 > This is a scholarship awarded by Monash University to outstanding students of Chinese for the purposes of travelling to China on a short-term study exchange.
 
-## Skills
-
-
-Here is a horizontal rule
-
----
 
 Here is a blockquote
 
