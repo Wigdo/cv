@@ -8,7 +8,7 @@ layout: default
 
 Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I majored in philosophy and am now three quarters of the way through a law degree at Monash University. I am based in Melbourne Australia.
 
-If you would like to see some of my academic essays you can find them on my [blog](https://wigdo.github.io/papyrus). I also post opinion pieces on 'what it takes to learn Chinese' and philosophy.
+If you would like to see some of my academic essays you can find them on my [blog](https://wigdo.github.io/papyrus). I also plan on posting opinion pieces on 'what it takes to learn Chinese', some analytic philosophy and rough translations.
 
 ## Education
 
