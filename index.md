@@ -45,7 +45,7 @@ AEX3001 | Chinese Advanced 3  | 80
 ## Work Experience
 
 [GMP Financial](https://gmpfinancial.com.au/)
-<p> GMP Financial is a financial planning firm. My duties at GMP Financial include proofreading statements of advice ("SoA"). SoAs are documents required by law to be given to clients when giving financial advice to them and ensure that a financial planner's obligations under the <em> Corporations Act 2001 </em> are adequately met. </p>
+<p> GMP Financial is a financial planning firm. My duties at GMP Financial include proofreading statements of advice ("SoA"). SoAs are documents required by law to be given to clients when giving financial advice to them and ensure that a financial planner's obligations under the <em> Corporations Act 2001 </em> (Cth) are adequately met. </p>
 
 ## Internship Experience
 
