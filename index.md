@@ -52,6 +52,11 @@ AEX3001 | Chinese Advanced 3  | 80
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
 <p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> which are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
 
+[Perpetuity Legal](https://www.perpetuitylegal.com.au/)
+<p>
+A boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and attending meetings with him. 
+</p>
+
 ## Awards
 
 CLIP scholarship
