@@ -16,7 +16,7 @@ Bachelor of Arts and Bachelor of Laws (honours), [Monash University](https://www
 2015 - 2020
 
 Diploma of Languages (Chinese), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
-2018-2020
+2016-2017
 
 A semester long study exchange at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University 'highly regarded Chinese university')
 2018-2018
