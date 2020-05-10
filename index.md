@@ -60,4 +60,4 @@ A boutique firm which specialises in estate planning, the drafting of wills and 
 ## Awards
 
 CLIP scholarship
-> This is a scholarship awarded by Monash University to outstanding students of Chinese for the purposes of travelling to China on a short-term study exchange.
+> This is a scholarship awarded by Monash University to outstanding students of Chinese for the purpose of travelling to China on a short-term study exchange.
