@@ -54,7 +54,7 @@ AEX3001 | Chinese Advanced 3  | 80
 
 [Perpetuity Legal](https://www.perpetuitylegal.com.au/)
 <p>
-A boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attending meetings with him. 
+A boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
 </p>
 
 ## Awards
