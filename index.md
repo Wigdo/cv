@@ -12,7 +12,7 @@ If you would like to see some of my academic essays you can find them on my [blo
 
 ## Education
 
-Bachelor of Arts and Bachelor of Laws, [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
+Bachelor of Arts and Bachelor of Laws (honours), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
 2015 - 2020
 
 Diploma of Languages (Chinese), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
