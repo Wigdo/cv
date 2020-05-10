@@ -50,7 +50,7 @@ AEX3001 | Chinese Advanced 3  | 80
 ## Internship Experience
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
-<p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> which are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
+<p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic) which are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
 
 [Perpetuity Legal](https://www.perpetuitylegal.com.au/)
 <p>
