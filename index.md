@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I majored in philosophy and am now three quarters of the way through a law degree at Monash University. I am based in Melbourne Australia.
+Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I majored in philosophy, law and Mandarin at Monash University, having studied a BA, LLB and Diplang. I am preparing to start my GDLP in order to qualify as an Australian legal practitioner.
 
 If you would like to see some of my academic essays you can find them on my [blog](https://wigdo.github.io/papyrus). I also plan on posting opinion pieces on 'what it takes to learn Chinese', some analytic philosophy and rough translations.
 
