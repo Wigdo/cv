@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I majored in philosophy, law and Mandarin at Monash University, having studied a BA, LLB and Diploma of Languages. I am preparing to start my GDLP in order to qualify as an Australian legal practitioner.
+Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I have recently completed a Bachelor of Laws and Bachelor of Arts (honours) double degree at Monash University (LLB, BA).  I have also finished a Diploma of Languages in Mandarin (Diplang) and am fully fluent in the language having read the novel《活着》[To Live] by 余华 [Yu Hua]. Here you can find a succinct list of my academic achievements and a summary detailing my work experience and internship experiences.
 
-If you would like to see some of my academic essays you can find them on my [blog](https://wigdo.github.io/papyrus). I also plan on posting opinion pieces on 'what it takes to learn Chinese', some analytic philosophy and rough translations.
+I occasionally post an assortment of things on my [blog](https://wigdo.github.io/papyrus). It's worth checking out if you would like an insight into the kind of person that I am, the kinds of things which I do, and the kinds of things that I am interested in.  
 
 ## Education
 
@@ -31,6 +31,7 @@ Subject Code | Subject Name | Grade
 -----|-------|--------
 LAW4323 | Evidence | 80
 LAW2112 | Property A | 74
+LAW4341 |Copyright and Designs| 73
 ATS3882 |Metaphysics | 88
 
 ### Notable Subjects - Diploma of Languages
@@ -50,12 +51,17 @@ AEX3001 | Chinese Advanced 3  | 80
 ## Internship Experience
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
-<p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic) which are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
+<p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
 
 [Perpetuity Legal](https://www.perpetuitylegal.com.au/)
 <p>
-A boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
+Perpetuity Legal is a boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
 </p>
+
+[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
+<p>
+I worked as an associate of Debra Briner, an Australian Legal Practitioner. I mainly did conveyancing work with her.
+<p>
 
 ## Awards
 
