@@ -61,9 +61,9 @@ Perpetuity Legal is a boutique firm which specialises in estate planning, the dr
 [Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
 <p>
 I worked as an associate of Debra Briner, an Australian Legal Practitioner. I mainly did conveyancing work with her.
-<p>
+</p>
 
 ## Awards
->
+
 CLIP scholarship
 > This is a scholarship awarded by Monash University to outstanding students of Chinese for the purpose of travelling to China on a short-term study exchange.
