@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I have recently completed a Bachelor of Laws and Bachelor of Arts (honours) double degree at Monash University (LLB, BA).  I have also finished a Diploma of Languages in Mandarin (Diplang) and am fully fluent in the language having read the novel《活着》[To Live] by 余华 [Yu Hua]. Here you can find a succinct list of my academic achievements and a summary detailing my work experience and internship experiences.
+Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I have recently completed a Bachelor of Laws (honours) and Bachelor of Arts double degree at Monash University (LLB, BA).  I have also finished a Diploma of Languages in Mandarin (Diplang) and am fully fluent in the language having read the novel《活着》[To Live] by 余华 [Yu Hua]. Here you can find a succinct list of my academic achievements and a summary detailing my work experience and internship experiences.
 
 I occasionally post an assortment of things on my [blog](https://wigdo.github.io/papyrus). It's worth checking out if you would like an insight into the kind of person that I am.  
 
@@ -24,24 +24,6 @@ A semester long study exchange at [Fudan University](https://en.wikipedia.org/wi
 > Fudan University is one of the [top 5](https://www.timeshighereducation.com/student/best-universities/best-universities-china) universities in Mainland China
 
 A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University) 2017
-
-### Notable Subjects - Bachelor of Arts and Bachelor of Laws
-
-Subject Code | Subject Name | Grade
------|-------|--------
-LAW4323 | Evidence | 80
-LAW2112 | Property A | 74
-LAW4341 |Copyright and Designs| 73
-ATS3882 |Metaphysics | 88
-
-### Notable Subjects - Diploma of Languages
-
-Subject Code | Subject Name | Grade
------|-------|--------|-----
-AEX3001 | Chinese Advanced 1  | 72
-AEX3001 | Chinese Advanced 2  | 80
-AEX3001 | Chinese Advanced 3  | 80
-
 
 ## Work Experience
 
@@ -78,3 +60,20 @@ I worked as an associate of Debra Briner, an Australian Legal Practitioner. I ma
 
 CLIP scholarship
 > This is a scholarship awarded by Monash University to outstanding students of Chinese for the purpose of travelling to China on a short-term study exchange.
+
+### Notable Subjects - Bachelor of Arts and Bachelor of Laws
+
+Subject Code | Subject Name | Grade
+-----|-------|--------
+LAW4323 | Evidence | 80
+LAW2112 | Property A | 74
+LAW4341 |Copyright and Designs| 73
+ATS3882 |Metaphysics | 88
+
+### Notable Subjects - Diploma of Languages
+
+Subject Code | Subject Name | Grade
+-----|-------|--------|-----
+AEX3001 | Chinese Advanced 1  | 72
+AEX3001 | Chinese Advanced 2  | 80
+AEX3001 | Chinese Advanced 3  | 80
