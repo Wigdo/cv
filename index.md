@@ -35,11 +35,18 @@ that a financial planner's obligations under the <em> Corporations Act 2001
 </em> (Cth) are adequately met.
 </p>
 
+[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
+<p>
+I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer,
+drafting retainers, contracts for sale of real property, doing title searches and drafting statements of adjustments.
+</p>
+
 [Epicure](https://www.epicure.com.au/)
 <p> Epicure provides culinary services for large scale events and venues. I have
 worked as a bartender for Epicure. I predominantly worked at the
 Melbourne Cricket Ground.  
 </p>
+
 
 ## Internship Experience
 
@@ -51,10 +58,6 @@ Melbourne Cricket Ground.
 Perpetuity Legal is a boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
 </p>
 
-[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
-<p>
-I worked as an associate of Debra Briner, an Australian Legal Practitioner. I mainly did conveyancing work with her.
-</p>
 
 ## Awards
 
