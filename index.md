@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I have recently completed a Bachelor of Laws (honours) and Bachelor of Arts double degree at Monash University (LLB, BA).  I have also finished a Diploma of Languages in Mandarin (Diplang) and am fully fluent in the language having read the novel《活着》[To Live] by 余华 [Yu Hua]. Here you can find a succinct list of my academic achievements and a summary detailing my work experience and internship experiences.
+Hi! Welcome to my digital resume. My name is Ari Wigdorowitz. I have recently completed a Bachelor of Laws (honours) and Bachelor of Arts double degree at Monash University (LLB, BA).  I have also finished a Diploma of Languages in Mandarin (Diplang) and am fully fluent in the language having read the novel《活着》[To Live] by 余华 [Yu Hua]. Here you can find a succinct list of my academic achievements and a summary detailing my work experience and internship experiences. I am currently enrolled in a Practical Legal Training Course with Leo Cussen.  
 
 I occasionally post an assortment of things on my [blog](https://wigdo.github.io/papyrus). It's worth checking out if you would like an insight into the kind of person that I am.  
 
@@ -37,7 +37,7 @@ that a financial planner's obligations under the <em> Corporations Act 2001
 
 [Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
 <p>
-I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer,
+I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer
 drafting retainers, contracts for sale of real property, doing title searches and drafting statements of adjustments.
 </p>
 
