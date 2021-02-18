@@ -27,19 +27,23 @@ A 6 week short term study exchange at the [Shanghai International Studies Univer
 
 ## Work Experience
 
-[GMP Financial](https://gmpfinancial.com.au/)
-<p> GMP Financial is a financial planning firm. My duties at GMP Financial
-include proofreading statements of advice ("SoA"). SoAs are documents required
-by law to be given to clients when giving financial advice to them and ensure
-that a financial planner's obligations under the <em> Corporations Act 2001
-</em> (Cth) are adequately met.
-</p>
-
 [Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
 <p>
 I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer
 drafting retainers, contracts for sale of real property, doing title searches and drafting statements of adjustments.
 </p>
+
+[GMP Financial](https://gmpfinancial.com.au/)
+<p> GMP Financial is a financial planning firm. My duties at GMP Financial
+included proofreading Statements of Advice ("SoA"). SoAs are documents required
+by law to be given to clients when giving financial advice and ensure
+that a financial planner's obligations under the <em> Corporations Act 2001
+</em> (Cth) are adequately met. While at the firm I also drafted file notes and prepared
+them for paraplanning using XPLAN. Throughout the process I ensured that details
+were accurately recorded in the file notes and that the file notes were made in
+accordance with the firm's policies.
+</p>
+
 
 [Epicure](https://www.epicure.com.au/)
 <p> Epicure provides culinary services for large scale events and venues. I have
