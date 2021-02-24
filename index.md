@@ -26,9 +26,8 @@ A semester long study exchange at [Fudan University](https://en.wikipedia.org/wi
 A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University) 2017
 
 ## Work Experience
-> 2015 - 2020
 
-[GMP Financial](https://gmpfinancial.com.au/)
+[GMP Financial](https://gmpfinancial.com.au/) 2015 - 2020
 <p> GMP Financial is a financial planning firm. My duties at GMP Financial
 included proofreading Statements of Advice ("SoA"). SoAs are documents required
 by law to be given to clients when giving financial advice and ensure
@@ -40,8 +39,7 @@ accordance with the firm's policies.
 </p>
 
 
-[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
-> 2018 - 2019
+[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx) 2018 - 2019
 
 <p>
 I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer
@@ -49,9 +47,8 @@ drafting retainers, contracts for sale of real property, doing title searches an
 </p>
 
 
-[Epicure](https://www.epicure.com.au/)
+[Epicure](https://www.epicure.com.au/) 2012 - 2015
 
-> 2012 - 2015
 
 <p> Epicure provides culinary services for large scale events and venues. I have
 worked as a bartender for Epicure. I predominantly worked at the
@@ -61,14 +58,13 @@ Melbourne Cricket Ground.
 
 ## Internship Experience
 
-[Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
+[Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC") Jan - July 2016
 > Jan - July 2016
 
 <p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
 
-[Perpetuity Legal](https://www.perpetuitylegal.com.au/)
+[Perpetuity Legal](https://www.perpetuitylegal.com.au/) Aug - Sep 2019
 
->August - September 2019 
 
 <p>
 Perpetuity Legal is a boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
