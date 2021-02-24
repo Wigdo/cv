@@ -34,7 +34,7 @@ A 6 week short term study exchange at the [Shanghai International Studies Univer
 <ul>
   <li> Proofreading Statements of Advice ("SoAs") </li>
   <li> Drafting file notes using XPLAN </li>
-  <li> Managing client databes on XPLAN </li>
+  <li> Managing client databases on XPLAN </li>
   <li> Taking calls from clients, organising meetings, attending meetings and writing minutes </li>
   <li> Preparing client files for paraplanning </li>
   <li> Administering risk profile questionnaires </li>
@@ -66,7 +66,7 @@ I worked as an associate of Debra Briner, an Australian Legal Practitioner. I wo
 
 <p>  Epicure provides culinary services for large scale events and venues. I have
 worked as a bartender for Epicure. I predominantly worked at the
-Melbourne Cricket Ground.</p> 
+Melbourne Cricket Ground.</p>
 
 <p> My duties at Epicure included: </p>
 
