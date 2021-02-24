@@ -60,6 +60,7 @@ I worked as an associate of Debra Briner, an Australian Legal Practitioner. I wo
   <li> Performing title searches </li>
   <li> Managing case files </li>
 
+</ul> 
 
 [Epicure](https://www.epicure.com.au/) 2012 - 2015
 
