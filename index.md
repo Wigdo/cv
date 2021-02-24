@@ -46,7 +46,7 @@ that a financial planner's obligations under the <em> Corporations Act 2001
 </em> (Cth) are adequately met.
 
 
-[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx) 2018 - 2019
+[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx) Jul 2018 - Jul 2019
 
 <p>
 I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer and my duties included: </p>  
