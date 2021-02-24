@@ -73,7 +73,7 @@ Melbourne Cricket Ground. My duties included:
 <ul>
   <li> Handling cash </li>
   <li> Providing customer service and building rapport with return customers </li>
-  <li> Managing customer complaints </li> 
+  <li> Managing customer complaints </li>
   <li> Serving alcohol to customers </li>
   <li> Cleaning glasses, tabletops and kitchenware </li>
   <li> Giving advice about the menu </li>
@@ -84,7 +84,6 @@ Melbourne Cricket Ground. My duties included:
 ## Internship Experience (including legal experience)
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC") Jan - July 2016
-> Jan - July 2016
 
 <p>
 The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included:
@@ -118,6 +117,7 @@ Perpetuity Legal is a boutique firm which specialises in estate planning, the dr
 
 CLIP scholarship
 > This is a scholarship awarded by Monash University to outstanding students of Chinese for the purpose of travelling to China on a short-term study exchange.
+
 
 ### Notable Subjects - Bachelor of Arts and Bachelor of Laws
 
