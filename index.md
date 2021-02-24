@@ -26,12 +26,7 @@ A semester long study exchange at [Fudan University](https://en.wikipedia.org/wi
 A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University) 2017
 
 ## Work Experience
-
-[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
-<p>
-I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer
-drafting retainers, contracts for sale of real property, doing title searches and drafting statements of adjustments.
-</p>
+> 2015 - 2020
 
 [GMP Financial](https://gmpfinancial.com.au/)
 <p> GMP Financial is a financial planning firm. My duties at GMP Financial
@@ -45,7 +40,19 @@ accordance with the firm's policies.
 </p>
 
 
+[Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx)
+> 2018 - 2019
+
+<p>
+I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer
+drafting retainers, contracts for sale of real property, doing title searches and drafting statements of adjustments.
+</p>
+
+
 [Epicure](https://www.epicure.com.au/)
+
+> 2012 - 2015
+
 <p> Epicure provides culinary services for large scale events and venues. I have
 worked as a bartender for Epicure. I predominantly worked at the
 Melbourne Cricket Ground.  
@@ -55,6 +62,8 @@ Melbourne Cricket Ground.
 ## Internship Experience
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
+> 
+
 <p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
 
 [Perpetuity Legal](https://www.perpetuitylegal.com.au/)
