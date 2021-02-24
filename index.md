@@ -62,11 +62,14 @@ Melbourne Cricket Ground.
 ## Internship Experience
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC")
-> 
+> Jan - July 2016
 
 <p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
 
 [Perpetuity Legal](https://www.perpetuitylegal.com.au/)
+
+>August - September 2019 
+
 <p>
 Perpetuity Legal is a boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
 </p>
