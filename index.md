@@ -71,7 +71,7 @@ Melbourne Cricket Ground. My duties included:
 </p>
 
 <ul>
-
+  <li> Handling cash </li>
   <li> Serving alcohol to customers </li>
   <li> Cleaning glasses, tabletops and kitchenware </li>
   <li> Giving advice about the menu </li>
