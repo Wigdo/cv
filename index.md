@@ -65,7 +65,7 @@ I worked as an associate of Debra Briner, an Australian Legal Practitioner. I wo
 [Epicure](https://www.epicure.com.au/) 2012 - 2015
 
 
-<p> Epicure provides culinary services for large scale events and venues. I have
+> <p> Epicure provides culinary services for large scale events and venues. I have
 worked as a bartender for Epicure. I predominantly worked at the
 Melbourne Cricket Ground. My duties included:   
 </p>
@@ -85,11 +85,11 @@ Melbourne Cricket Ground. My duties included:
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC") Jan - July 2016
 
-<p>
-The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included:
-</p>
- participating in mediations, writing minutes and reporting on mediations.
+> <p>
+The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators.
 
+My duties at the VSBC included:
+</p>
 
 <ul>
 
