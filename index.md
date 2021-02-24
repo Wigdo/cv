@@ -28,23 +28,37 @@ A 6 week short term study exchange at the [Shanghai International Studies Univer
 ## Work Experience
 
 [GMP Financial](https://gmpfinancial.com.au/) 2015 - 2020
-<p> GMP Financial is a financial planning firm. My duties at GMP Financial
-included proofreading Statements of Advice ("SoA"). SoAs are documents required
+<p> GMP Financial is a financial planning firm. My duties at the firm included:
+</p>
+
+<ul>
+  <li> Proofreading Statements of Advice ("SoAs") </li>
+  <li> Drafting file notes using XPLAN </li>
+  <li> Managing client databes on XPLAN </li>
+  <li> Taking calls from clients, organising meetings, attending meetings and writing minutes </li>
+  <li> Preparing client files for paraplanning </li>
+  <li> Administering risk profile questionnaires </li>
+</ul>
+
+> SoAs are documents required
 by law to be given to clients when giving financial advice and ensure
 that a financial planner's obligations under the <em> Corporations Act 2001
-</em> (Cth) are adequately met. While at the firm I also drafted file notes and prepared
-them for paraplanning using XPLAN. Throughout the process I ensured that details
-were accurately recorded in the file notes and that the file notes were made in
-accordance with the firm's policies.
-</p>
+</em> (Cth) are adequately met.
 
 
 [Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx) 2018 - 2019
 
 <p>
-I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer
-drafting retainers, contracts for sale of real property, doing title searches and drafting statements of adjustments.
-</p>
+I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer and my duties included: </p>  
+<ul>
+
+  <li> Drafting retainers </li>
+  <li> Drafting contracts for sale </li>
+  <li> Drafting letters to clients </li>
+  <li> Drafting vendor's statements </li>
+  <li> Drafting statements of adjustments </li>
+  <li> Performing title searches </li>
+  <li> Managing case files </li>
 
 
 [Epicure](https://www.epicure.com.au/) 2012 - 2015
@@ -52,8 +66,13 @@ drafting retainers, contracts for sale of real property, doing title searches an
 
 <p> Epicure provides culinary services for large scale events and venues. I have
 worked as a bartender for Epicure. I predominantly worked at the
-Melbourne Cricket Ground.  
+Melbourne Cricket Ground. My duties included:   
 </p>
+
+<ul>
+  <li> Serving alcohol to customers </li>
+  <li> </li>
+</ul>
 
 
 ## Internship Experience
@@ -67,8 +86,13 @@ Melbourne Cricket Ground.
 
 
 <p>
-Perpetuity Legal is a boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. With Lav's supervision I did some basic research and I attended meetings with him.
-</p>
+Perpetuity Legal is a boutique firm which specialises in estate planning, the drafting of wills and succession law more generally. Lav Chhabra is the principal solicitor at Perpetuity Legal and is working towards becoming an accredited specialist. My duties included: </p>
+
+<ul>
+  <li> Researching legal questions </li>
+  <li> Attending meetings and drafting minutes </li>
+  <li> Greeting clients </li>  
+</ul>
 
 
 ## Awards
