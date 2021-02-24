@@ -60,7 +60,7 @@ I worked as an associate of Debra Briner, an Australian Legal Practitioner. I wo
   <li> Performing title searches </li>
   <li> Managing case files </li>
 
-</ul> 
+</ul>
 
 [Epicure](https://www.epicure.com.au/) 2012 - 2015
 
@@ -71,9 +71,11 @@ Melbourne Cricket Ground. My duties included:
 </p>
 
 <ul>
+
   <li> Serving alcohol to customers </li>
   <li> Cleaning glasses, tabletops and kitchenware </li>
   <li> Giving advice about the menu </li>
+
 </ul>
 
 
@@ -82,7 +84,20 @@ Melbourne Cricket Ground. My duties included:
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC") Jan - July 2016
 > Jan - July 2016
 
-<p> The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included participating in mediations, writing minutes and reporting on mediations. </p>
+<p>
+The VSBC facilitates the resolution of disputes under the <em> Retail Leases Act 2003 </em> (Vic). These kinds of disputes are primarily retail tenancy disputes and disputes relating to small retail businesses. The VSBC provides a forum for mediation and access to accredited mediators. My duties at the VSBC included:
+</p>
+ participating in mediations, writing minutes and reporting on mediations.
+
+
+<ul>
+
+  <li> Participating in mediations </li>
+  <li> Writing minutes </li>
+  <li> Reporting on mediations </li>
+  <li> Researching the <em> Retail Leases Act 2003 </em> (Vic) </li> 
+
+</ul>
 
 [Perpetuity Legal](https://www.perpetuitylegal.com.au/) Aug - Sep 2019
 
