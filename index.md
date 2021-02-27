@@ -27,7 +27,7 @@ A 6 week short term study exchange at the [Shanghai International Studies Univer
 
 ## Work Experience (including legal experience)
 
-[GMP Financial](https://gmpfinancial.com.au/) 2015 - 2020
+[GMP Financial](https://gmpfinancial.com.au/) 2015 - 2021
 <p> GMP Financial is a financial planning firm. My duties at the firm included:
 </p>
 
