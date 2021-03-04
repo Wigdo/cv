@@ -47,7 +47,7 @@ that a financial planner's obligations under the <em> Corporations Act 2001
 
 
 [Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx) Jul 2018 - Jul 2019
-<p> Debra Briner is an Australian legal practitioner who predominantly works in the area of real property law</p>
+<p> Debra Briner is an Australian legal practitioner who predominantly works in real property law.</p>
 
 <p>
 I worked as a paralegal and my duties included: </p>  
