@@ -12,7 +12,7 @@ I occasionally post an assortment of things on my [blog](https://wigdo.github.io
 
 ## Education
 
-Bachelor of Arts and Bachelor of Laws (honours), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
+Bachelor of Arts and Bachelor of Laws (Honours), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
 2015 - 2020
 
 Diploma of Languages (Chinese), [Monash University](https://www.monash.edu/study/why-choose-monash/our-rankings)
