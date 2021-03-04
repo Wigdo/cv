@@ -28,7 +28,7 @@ A 6 week short term study exchange at the [Shanghai International Studies Univer
 ## Work Experience (including legal experience)
 
 [GMP Financial](https://gmpfinancial.com.au/) 2015 - 2021
-<p> GMP Financial is a financial planning firm. My duties at the firm included:
+<p> GMP Financial is a financial planning firm. My duties at the firm include:
 </p>
 
 <ul>
@@ -47,9 +47,10 @@ that a financial planner's obligations under the <em> Corporations Act 2001
 
 
 [Briner and Associates](https://lawyerlist.com.au/1829-Briner--Associates.aspx) Jul 2018 - Jul 2019
+<p> Debra Briner is an Australian legal practitioner who predominantly works in the area of real property law</p>
 
 <p>
-I worked as an associate of Debra Briner, an Australian Legal Practitioner. I worked as a conveyancer and my duties included: </p>  
+I worked as a paralegal and my duties included: </p>  
 <ul>
 
   <li> Drafting retainers </li>
