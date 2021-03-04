@@ -25,7 +25,7 @@ A semester long study exchange at [Fudan University](https://en.wikipedia.org/wi
 
 A 6 week short term study exchange at the [Shanghai International Studies University](https://en.wikipedia.org/wiki/Shanghai_International_Studies_University) 2017
 
-## Work Experience (including legal experience)
+## Work Experience
 
 [GMP Financial](https://gmpfinancial.com.au/) 2015 - 2021
 <p> GMP Financial is a financial planning firm. My duties at the firm include:
@@ -83,7 +83,7 @@ Melbourne Cricket Ground.</p>
 </ul>
 
 
-## Internship Experience (including legal experience)
+## Internship Experience
 
 [Victorian Small Business Commissioner](https://www.vsbc.vic.gov.au/) ("VSBC") Jan - July 2016
 
