@@ -28,7 +28,7 @@ A 6 week short term study exchange at the [Shanghai International Studies Univer
 ## Work Experience
 
 <b>Warlows Legal </b> March 2021 - present
-<p>Warlows Legal is a boutique law firm which specialises in charities law and commercial law. At the firm I have been involved in drafting company constitutions for companies limited by guarantee, making applications to the Australian Charities and Not-for-profit Commission and liaising with the Australian Taxation Office. I have been involved in the creation of Private Ancillary Funds, Public Benevolent Institutions and Health Promotion Charities. 
+<p>Warlows Legal is a boutique law firm which specialises in charities law and commercial law. At the firm I have been involved in drafting company constitutions for companies limited by guarantee, making applications to the Australian Charities and Not-for-profit Commission and liaising with the Australian Taxation Office. I have been involved in the creation of Private Ancillary Funds, Public Benevolent Institutions and Health Promotion Charities.
 </p>
 
 
@@ -59,10 +59,7 @@ I worked as a paralegal and my duties included: </p>
 <ul>
 
   <li> Drafting retainers </li>
-  <li> Drafting contracts for sale </li>
   <li> Drafting letters to clients </li>
-  <li> Drafting vendor's statements </li>
-  <li> Drafting statements of adjustments </li>
   <li> Performing title searches </li>
   <li> Managing case files </li>
 
